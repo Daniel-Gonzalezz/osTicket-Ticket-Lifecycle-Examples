@@ -34,9 +34,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/user-attachments/assets/8c4b74cc-a8ce-4fa1-9690-61af2f12d3e0)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+(ASSIGNMENT) - To assign tickets in osTicket, start by logging into the admin panel and navigating to the “Tickets” tab. Open the ticket you want to assign, then click the “Assign” button. From the dropdown menu, choose the appropriate agent or team responsible for handling the ticket. Once assigned, the agent or team will receive a notification, and the ticket’s status will reflect its new assignment. Proper assignment ensures accountability and helps streamline the resolution process, making sure tickets are handled efficiently and by the right personnel.
+
+
 
 ![image](https://github.com/user-attachments/assets/51b22406-aba5-436c-805b-d2174b79578f)
 
