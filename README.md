@@ -25,13 +25,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/bd4e06de-bab8-4e0c-a920-23c196005ebd)
+
+
+In osTicket, ticket intake is simple and efficient. Users can submit tickets through various channels like the web portal, email, or API. Once a ticket is created, it’s automatically logged into the system, where it’s assigned a unique ID for tracking. Support agents can view, prioritize, and respond to tickets from the admin panel, ensuring timely and organized communication. Properly categorizing and assigning tickets to the right department helps streamline the support workflow and improves response times.
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
