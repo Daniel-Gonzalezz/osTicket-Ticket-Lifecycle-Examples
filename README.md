@@ -41,3 +41,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/51b22406-aba5-436c-805b-d2174b79578f)
 
 (WORKING THE ISSUE & COMMUNICATION) - Always communicate with whoever you need to in a timely manner and post updates in regards to the issue. 
+
+
+![image](https://github.com/user-attachments/assets/6c86af9c-e138-40f8-a794-fb949ababc6d)
+
+(RESOLUTION) - Make sure to close out tickets, once they are resolved.
